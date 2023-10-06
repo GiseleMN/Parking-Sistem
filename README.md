@@ -1,11 +1,12 @@
-# Parking-Sistem
+# 🅿️arking-Sistem 
 
 ## Contexto do desafio: 
 Construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
 ## Proposta:
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
+
+<img width="30%" src="../DesafioFundamentos/Diagrama/diagrama.png"/>
 
 A classe contém três variáveis, sendo:
 
@@ -30,5 +31,3 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 4. Encerrar
 
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
