@@ -1,0 +1,15 @@
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfo.cs
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.deps.json
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.runtimeconfig.json
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.pdb
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.dll
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/refint/DesafioFundamentos.dll
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.pdb
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.genruntimeconfig.cache
+/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/ref/DesafioFundamentos.dll

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AFA03B1B-53AC-4B72-B618-8405236EBBA7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Estacionamento.cs">
+    <Files>
+      <File FileName="Models/Estacionamento.cs" Line="31" Column="1" />
+      <File FileName="Program.cs" Line="23" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesafioFundamentos">
+            <Node name="DesafioFundamentos">
+              <Node name="Models" expanded="True">
+                <Node name="Estacionamento.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/giselehorii/Projects/trilha-net-fundamentos-desafio/DesafioFundamentos/Models/Estacionamento.cs" relfile="Models/Estacionamento.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DesafioFundamentos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
