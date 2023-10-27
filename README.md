@@ -5,7 +5,7 @@ Construir um sistema para um estacionamento, que será usado para gerenciar os v
 
 ## Proposta:
 
-| 🚧 🛠️ Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo: ⚙️ 🚧 | ![Diagrama Classe Estacionamento](Diagrama/diagrama.png) |
+| 🚧 🛠️ Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama : ⚙️ 🚧 | ![Diagrama Classe Estacionamento](Diagrama/diagrama.png) |
 | --- | --- |
 
 <br>
